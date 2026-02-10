@@ -15,15 +15,6 @@ This repository serves as a centralized collection of reference materials, docum
 *   **Practical:** Shell scripting and simulation of OS algorithms.
     
 
-### 🌐 Computer Networks (303105255)
-
-*   **Focus:** Data communication principles and networking architectures.
-    
-*   **Key Topics:** OSI & TCP/IP models, IP addressing (IPv4/IPv6), Routing protocols, and Network Security.
-    
-*   **Practical:** Socket programming and Cisco Packet Tracer simulations.
-    
-
 ### 🛠️ Software Engineering (303105253)
 
 *   **Focus:** Methodologies for systematic software development.
@@ -33,6 +24,15 @@ This repository serves as a centralized collection of reference materials, docum
 *   **Practical:** UML diagramming and project management documentation.
     
 *   Shutterstock
+  
+    
+### 🌐 Computer Networks (303105255)
+
+*   **Focus:** Data communication principles and networking architectures.
+    
+*   **Key Topics:** OSI & TCP/IP models, IP addressing (IPv4/IPv6), Routing protocols, and Network Security.
+    
+*   **Practical:** Socket programming and Cisco Packet Tracer simulations.
     
 
 ### 🐍 Python with Full Stack Development (303105257)
@@ -42,6 +42,13 @@ This repository serves as a centralized collection of reference materials, docum
 *   **Key Topics:** Backend logic, REST APIs, Database integration, and Frontend synchronization.
     
 *   **Practical:** Development of a complete full-stack web application.
+
+  
+   ### 🏆 Competitive Coding (303105259)
+
+*   **Focus:** Enhancing algorithmic efficiency and problem-solving speed.
+    
+*   **Key Topics:** Advanced Data Structures, Dynamic Programming, Greedy Algorithms, and Complexity Optimization.
     
 
 ### 🔢 Probability, Statistics and Numerical Methods (303191251)
@@ -49,21 +56,6 @@ This repository serves as a centralized collection of reference materials, docum
 *   **Focus:** Mathematical tools essential for Data Science and Engineering.
     
 *   **Key Topics:** Probability distributions, Hypothesis testing, Regression analysis, and Numerical solutions for integration/differentiation.
-    
-
-### 🏆 Competitive Coding (303105259)
-
-*   **Focus:** Enhancing algorithmic efficiency and problem-solving speed.
-    
-*   **Key Topics:** Advanced Data Structures, Dynamic Programming, Greedy Algorithms, and Complexity Optimization.
-    
-
-🛠️ Tech Stack
---------------
-
-*   **Languages:** Python, C++, Java, R, SQL
-    
-*   **Tools:** VS Code, Git, XAMPP, Jupyter Notebooks
     
 
 📂 Directory Structure
