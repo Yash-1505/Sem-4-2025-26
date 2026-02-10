@@ -68,7 +68,7 @@ _├── Software-Engineering/ # SDLC models and SRS documentation_
 _├── Computer-Networks/ # Network protocols and socket programming_
 
 _├── Python-FullStack/ # Web application source code_
+ 
+_├── Competitive-Coding/ # Optimized algorithmic solutions_
 
-_└── Competitive-Coding/ # Optimized algorithmic solutions_
-
-_├── PSNM-Maths/ # Statistical analysis and numerical methods_
+_└── PSNM-Maths/ # Statistical analysis and numerical methods_
